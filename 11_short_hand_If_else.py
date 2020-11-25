@@ -9,3 +9,4 @@
 print("1==2") if 1==2 else print("1 != 2")
 #  example 2
 print("12 - 12 = 12") if(12-12 == 12) else print("12 - 12 == 0")
+
