@@ -6,6 +6,7 @@
     > dictionary are (unordered), it mean we can get element by its index as we do in list
     > it is indexed
     > We cannot use duplicate keys in dictionary
+    > We can use duplicate values in dictionary
 """
 
     # lets see example

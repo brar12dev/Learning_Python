@@ -7,6 +7,7 @@
         > if you want to make a empty set use set() function , if you use {} for creating empty set it will form a emoty dictionary
         > SETS are unindexed
         > sets are immutable
+        > sets are sorted by default
 
 """
 
