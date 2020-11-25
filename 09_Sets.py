@@ -1,3 +1,3 @@
 print("hello world")
-bye
+print("you are nothing")
 
